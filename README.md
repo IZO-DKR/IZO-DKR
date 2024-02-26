@@ -10,11 +10,9 @@ Tech is more than a job, it's a way of life.
   
 - 👀 Tools,
   HTML5, CSS3, Python3, GitHub, Docker, Linux,
-
-              
+             
 - 🌱 My Blog Articles,
-
-- 
+ 
 - 💞️ Reach me on,
   IZO-DKR Git Hub
   
